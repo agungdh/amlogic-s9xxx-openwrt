@@ -3,7 +3,7 @@
 # Description: Build OpenWrt system image
 #============================================================================================
 
-name: Build OpenWrt system image
+name: Build OpenWrt system image B860h
 
 on:
   repository_dispatch:
